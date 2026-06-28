@@ -10,7 +10,7 @@
 </p>
 
 ## 🚀 About Me
-- 🏫 Student at **Jashore Zilla School**[cite: 1]
+- 🏫 Student at **Jashore Zilla School**
 - 🤖 Passionate about **Robotics, Hardware Engineering, and Coding**
 - 👥 **Deputy Secretary General** at JCB Science Club & **Senior Patrol Leader** (2025–2026) at JZS Scout Group
 - 🎯 Constantly combining team management, innovation, and technology to build real-world solutions
