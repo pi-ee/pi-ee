@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muzahid Ul Hassan 👋</h1>
-<h3 align="center">Robotics Innovator & Hardware Engineering Enthusiast</h3>
+<h3 align="center">Robotics Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Coding+%26+Robotics+Explorer;IoT+%26+Automation+Developer;Senior+Patrol+Leader+%40+Scouts;Building+Solutions+for+Tomorrow&font=Fira+Code&center=true&color=00F7FF&width=600&height=50"/>
