@@ -55,26 +55,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pi-ee&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pi-ee&theme=tokyonight" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pi-ee&layout=compact&theme=tokyonight" width="60%"/>
-</p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pi-ee&theme=onestar&no-frame=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
-</p>
-
----
-
 ## 🤝 Connect With Me
 <p align="left">
   <a href="https://github.com/pi-ee"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
