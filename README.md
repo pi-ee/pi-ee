@@ -7,11 +7,11 @@ Jashore Zilla School | DSA Enthusiast</h3>
 &color=00F7FF&width=600&height=50"/>
 <img src="github.com/yusufyusie/
 yusufyusie/raw/main/line.gif"/>
-## About Me
+## Achievements
 - Student at Jashore Zilla School
 - Learning Coding & Robotics
 - Passionate about Robotics
-- Instagram: @muzahid_ul_hassan />
+- Instagram: @muzahid_ul_hassan/>
 ## Tech Stack
 <!-- Use devicons from jsdelivr.net -->
 [cpp-icon]
