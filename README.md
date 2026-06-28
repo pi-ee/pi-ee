@@ -11,7 +11,7 @@ yusufyusie/raw/main/line.gif"/>
 - Student at Jashore Zilla School
 - Learning Coding & Robotics
 - Passionate about Robotics
-- Instagram: @muzahid_ul_hassan
+- Instagram: @muzahid_ul_hassan />
 ## Tech Stack
 <!-- Use devicons from jsdelivr.net -->
 [cpp-icon]
