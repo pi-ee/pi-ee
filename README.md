@@ -1,19 +1,11 @@
 <h1 align="center">Hi, I'm Muzahid Ul Hassan 👋</h1>
 <h3 align="center">Robotics Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Coding+%26+Robotics+Explorer;IoT+%26+Automation+Developer;Senior+Patrol+Leader+%40+Scouts;Building+Solutions+for+Tomorrow&font=Fira+Code&center=true&color=00F7FF&width=600&height=50"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
-</p>
-
 ## 🚀 About Me
 - 🏫 Student at **Jashore Zilla School**
 - 🤖 Passionate about **Robotics, Hardware Engineering, and Coding**
-- 👥 **Deputy Secretary General** at JCB Science Club & **Senior Patrol Leader** (2025–2026) at JZS Scout Group
-- 🎯 Constantly combining team management, innovation, and technology to build real-world solutions
+- 👥 **Deputy Secretary General** at JCB Science Club &
+- 👥 **Senior Patrol Leader** (2025–2026) at JZS Scout Group
 - 📸 Instagram: [@muzahid_ul_hassan](https://instagram.com/muzahid_ul_hassan)
 
 ---
