@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muzahid Ul Hassan 👋</h1>
+<h1 align="center">Hi, I'm Muzahid Ul Hassan </h1>
 <h3 align="center">Robotics Enthusiast</h3>
 
 ## 🚀 About Me
