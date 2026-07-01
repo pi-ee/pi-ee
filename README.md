@@ -4,7 +4,7 @@
 ## 🚀 About Me
 - 🏫 Student at **Jashore Zilla School**
 - 🤖 Passionate about **Robotics, Hardware Engineering, and Coding**
-- 👥 **Deputy Secretary General** at JCB Science Club &
+- 👥 **Deputy Secretary General** at JCB Science Club 
 - 👥 **Senior Patrol Leader** (2025–2026) at JZS Scout Group
 - 📸 Instagram: [@muzahid_ul_hassan](https://instagram.com/muzahid_ul_hassan)
 
